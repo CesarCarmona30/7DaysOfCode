@@ -22,3 +22,13 @@ Cada día se presentará un nuevo desafío con el objetivo de profundizar en est
 | 2/7 | [VARIABLES](./Day2/ejercicio.md)             | 🗓️ 16/08/24 |
 
 #### #7DaysOfCode. #AluraLATAM #ONE
+
+## Uso del repositorio
+
+- Clona este repositorio: git clone https://github.com/tu-usuario/7days-of-code-logica-js.git
+- Navega a la carpeta del día correspondiente: cd Day[#]
+- Revisa el enunciado del desafío y la solución propuesta.
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, no dudes en hacer un fork de este repositorio y enviar un pull request.
