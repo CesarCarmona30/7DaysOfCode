@@ -16,7 +16,9 @@ Cada día se presentará un nuevo desafío con el objetivo de profundizar en est
 
 ## Desafíos
 
-- Día 1/7: [Operaciones Booleanas](./Day1/ejercicio.md)
-- Día 2/7: [Variables](./Day2/ejercicio.md)
+| Day | Ejercicio                                    | Fecha       |
+| --- | -------------------------------------------- | ----------- |
+| 1/7 | [OPERACIONES BOOLEANAS](./Day1/ejercicio.md) | 🗓️ 15/08/24 |
+| 1/7 | [VARIABLES](./Day2/ejercicio.md)             | 🗓️ 16/08/24 |
 
 #### #7DaysOfCode. #AluraLATAM #ONE
