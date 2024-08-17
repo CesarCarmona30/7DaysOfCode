@@ -25,7 +25,7 @@ Cada día se presentará un nuevo desafío con el objetivo de profundizar en est
 
 ## Uso del repositorio
 
-- Clona este repositorio: git clone `https://github.com/CesarCarmona30/7DaysOfCode.git`
+- Clona este repositorio: `git clone https://github.com/CesarCarmona30/7DaysOfCode.git`
 - Navega a la carpeta del día correspondiente: `cd Day[#]`
 - Revisa el enunciado del desafío y la solución propuesta.
 
