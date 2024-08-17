@@ -1,10 +1,10 @@
 # 7 Days of Code
 
-Este repositorio contiene los ejercicios y soluciones desarrollados durante el desafío 7 Days of Code de Lógica con JavaScript como parte de mi formación en el programa Oracle Next Education (ONE) con Alura Latam.
+Este repositorio contiene los ejercicios y soluciones desarrollados durante el desafío adicional de 7 Days of Code de Lógica con JavaScript, como parte de mi formación en el programa Oracle Next Education (ONE) con Alura Latam.
 
 ## Descripción
 
-El 7 Days of Code es una iniciativa de Alura Latam diseñada para mejorar tus habilidades en lógica de programación mediante desafíos diarios y prácticos. A lo largo de siete días, se abordarán temas clave como:
+El 7 Days of Code es una iniciativa de Alura Latam diseñada para mejorar las habilidades en lógica de programación mediante desafíos diarios y prácticos. A lo largo de siete días, se abordarán temas clave como:
 
 - Manejo de variables
 - Operaciones booleanas
