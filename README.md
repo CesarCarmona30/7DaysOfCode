@@ -21,6 +21,7 @@ Cada día se presentará un nuevo desafío con el objetivo de profundizar en est
 | 1/7 | [OPERACIONES BOOLEANAS](./Day1/ejercicio.md)           | 🗓️ 15/08/24 |
 | 2/7 | [VARIABLES](./Day2/ejercicio.md)                       | 🗓️ 16/08/24 |
 | 3/7 | [ESTRUCTURAS DE CONTROL DE FLUJO](./Day3/ejercicio.md) | 🗓️ 17/08/24 |
+| 4/7 | [MAS LOOPS Y RANDOMIZACIÓN](./Day4/ejercicio.md)       | 🗓️ 18/08/24 |
 
 #### #7DaysOfCode. #AluraLATAM #ONE
 
