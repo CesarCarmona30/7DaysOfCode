@@ -16,4 +16,3 @@ while (attempt <= 3) {
     alert(`No has acertado el número, era ${rand_value}.`)
   }
 }
-
