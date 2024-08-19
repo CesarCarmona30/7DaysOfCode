@@ -16,12 +16,13 @@ Cada día se presentará un nuevo desafío con el objetivo de profundizar en est
 
 ## Desafíos
 
-| Day | Ejercicio                                              | Fecha       |
-| --- | ------------------------------------------------------ | ----------- |
-| 1/7 | [OPERACIONES BOOLEANAS](./Day1/ejercicio.md)           | 🗓️ 15/08/24 |
-| 2/7 | [VARIABLES](./Day2/ejercicio.md)                       | 🗓️ 16/08/24 |
-| 3/7 | [ESTRUCTURAS DE CONTROL DE FLUJO](./Day3/ejercicio.md) | 🗓️ 17/08/24 |
-| 4/7 | [MAS LOOPS Y RANDOMIZACIÓN](./Day4/ejercicio.md)       | 🗓️ 18/08/24 |
+| Day | Ejercicio                                              | Fecha       | Código                |
+| --- | ------------------------------------------------------ | ----------- | --------------------- |
+| 1/7 | [OPERACIONES BOOLEANAS](./Day1/ejercicio.md)           | 🗓️ 15/08/24 | [⌨️](./Day1/day_1.js) |
+| 2/7 | [VARIABLES](./Day2/ejercicio.md)                       | 🗓️ 16/08/24 | [⌨️](./Day2/day_2.js) |
+| 3/7 | [ESTRUCTURAS DE CONTROL DE FLUJO](./Day3/ejercicio.md) | 🗓️ 17/08/24 | [⌨️](./Day3/day_3.js) |
+| 4/7 | [MAS LOOPS Y RANDOMIZACIÓN](./Day4/ejercicio.md)       | 🗓️ 18/08/24 | [⌨️](./Day4/day_4.js) |
+| 5/7 | [ARRAYS Y COLECCIONES](./Day5/ejercicio.md)            | 🗓️ 19/08/24 | [⌨️](./Day5/day_5.js) |
 
 #### #7DaysOfCode. #AluraLATAM #ONE
 
