@@ -23,6 +23,8 @@ Cada día se presentará un nuevo desafío con el objetivo de profundizar en est
 | 3/7 | [ESTRUCTURAS DE CONTROL DE FLUJO](./Day3/ejercicio.md) | 🗓️ 17/08/24 | [⌨️](./Day3/day_3.js) |
 | 4/7 | [MAS LOOPS Y RANDOMIZACIÓN](./Day4/ejercicio.md)       | 🗓️ 18/08/24 | [⌨️](./Day4/day_4.js) |
 | 5/7 | [ARRAYS Y COLECCIONES](./Day5/ejercicio.md)            | 🗓️ 19/08/24 | [⌨️](./Day5/day_5.js) |
+| 6/7 | [REMOCIÓN DE ARRAYS](./Day6/ejercicio.md)              | 🗓️ 20/08/24 | [⌨️](./Day6/day_6.js) |
+| 7/7 | [FUNCIONES](./Day7/ejercicio.md)                       | 🗓️ 21/08/24 | [⌨️](./Day7/day_7.js) |
 
 #### #7DaysOfCode. #AluraLATAM #ONE
 
