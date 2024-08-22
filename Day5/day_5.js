@@ -21,7 +21,7 @@ function showCategories(obj) {
 
 function addItemToList(list, item, category) {
   if (list[category]) {
-    list[category].push(itme);
+    list[category].push(item);
     alert(`El producto ${item} fue agregado a la lista de compras en la categoría ${category} correctamente.`);
   } else {
     alert('Categoría no válida. Intenta de nuevo.');
@@ -32,7 +32,7 @@ function generateMessage(obj) {
   let message = `Tu lista de compras es la siguiente:`
   for (const [key, value] of Object.entries(obj)) {
     message += `\n  > ${capitalize(key)}:`;
-    message += addItemToList.length ? value.map(item => `\n    - ${item}`).join('') : 'No hay productos a comprar en esta categoria';
+    message += value.length ? value.map(item => `\n    - ${item}`).join('') : 'No hay productos a comprar en esta categoria';
   }
 
   return message;
